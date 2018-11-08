@@ -3,8 +3,8 @@ color red = #FF0307 ;
 color white = #FFFFFF ;
 int faceX = width/2 ;
 int faceY = height/2 ;
-int leftEyeX = height/4
-int leftEyeY = width
+int leftEyeX = height/4 ;
+int leftEyeY = width/4 ;
 
 void setup() {
   size(500, 600);
